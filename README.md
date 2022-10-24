@@ -8,7 +8,7 @@ This project is an example for flutter camera with image compression using flutt
     <li>flutter_native_image</li>
 </ul>
 
-You can check the permissions and complate documentations in <a href='https://pub.dev/packages/camera'>here</a>.
+You can check the permissions and complete documentations in <a href='https://pub.dev/packages/camera'>here</a>.
 
 ## App Preview
 <img src="https://raw.githubusercontent.com/heathscliff334/flutter_camera_with_compression/master/screenshots/screenshot_1.png" width="50%">
